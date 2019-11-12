@@ -1,0 +1,13 @@
+.navbar{
+  background-color: #dfdfde;
+  min-height: 8vh;
+}
+
+.purple{
+  color:#9e379f;
+}
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: black;
+}
