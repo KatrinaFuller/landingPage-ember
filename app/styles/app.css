@@ -40,3 +40,12 @@ a:link, a:visited, a:hover, a:active {
   width: 260px;
   height: auto;
 }
+
+.languages{
+  background-color: white;
+  min-height: 35vh;
+}
+
+.devicon {
+  font-size: 5rem;
+}
