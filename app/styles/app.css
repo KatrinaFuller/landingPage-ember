@@ -11,3 +11,22 @@ a:link, a:visited, a:hover, a:active {
   text-decoration: none;
   color: black;
 }
+
+.image-row{
+  background-image: url("pacificCity.png");
+  background-size: cover;
+  min-height: 92vh;
+  background-position-y: center;
+}
+
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 64px;
+}
+
+.special-font{
+  font-family: 'Handlee', cursive;
+}
