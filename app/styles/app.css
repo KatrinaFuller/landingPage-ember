@@ -30,3 +30,13 @@ a:link, a:visited, a:hover, a:active {
 .special-font{
   font-family: 'Handlee', cursive;
 }
+
+.about-me{
+  background-color: #ebd7eb;
+  min-height: 50vh;
+}
+
+.me{
+  width: 260px;
+  height: auto;
+}
