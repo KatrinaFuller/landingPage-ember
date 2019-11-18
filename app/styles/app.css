@@ -70,6 +70,7 @@ a:link, a:visited, a:hover, a:active {
 @media only screen and (min-width: 991px) {
  .info-about-me {
   padding-right: calc((50vw - 260px) / 2)
+  !important
 }
 }
 
