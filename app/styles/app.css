@@ -13,7 +13,7 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .image-row{
-  background-image: url("pacificCity.png");
+  background-image: url("/assets/images/pacificCity.png");
   background-size: cover;
   min-height: 92vh;
   background-position-y: center;
